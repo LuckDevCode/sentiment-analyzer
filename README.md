@@ -22,4 +22,12 @@ The project will be developed in two main phases:
 
 ---
 
+## 📘 Phase 3 – NLTK vs spaCy Pipeline Comparison
+
+- Train a model using **NLTK** + **TF-IDF** + **Logistic Regression**
+- Train a model using **spaCy** + **TF-IDF** + **Logistic Regression**
+- Compare key metrics: **accuracy**, **precision**, **recall**, **F1-score**, and **response time**
+
+---
+
 Stay tuned for updates! 😊
